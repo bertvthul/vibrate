@@ -1,0 +1,4 @@
+# ignore files in root
+.DS_Store
+
+
